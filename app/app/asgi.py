@@ -1,3 +1,4 @@
+# noqa
 """
 ASGI config for app project.
 
